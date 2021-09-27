@@ -1,0 +1,14 @@
+C:\src\GameOfLife\bin\Debug\netcoreapp3.1\GameOfLife.exe
+C:\src\GameOfLife\bin\Debug\netcoreapp3.1\GameOfLife.deps.json
+C:\src\GameOfLife\bin\Debug\netcoreapp3.1\GameOfLife.runtimeconfig.json
+C:\src\GameOfLife\bin\Debug\netcoreapp3.1\GameOfLife.runtimeconfig.dev.json
+C:\src\GameOfLife\bin\Debug\netcoreapp3.1\GameOfLife.dll
+C:\src\GameOfLife\bin\Debug\netcoreapp3.1\GameOfLife.pdb
+C:\src\GameOfLife\obj\Debug\netcoreapp3.1\GameOfLife.csproj.AssemblyReference.cache
+C:\src\GameOfLife\obj\Debug\netcoreapp3.1\GameOfLife.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\GameOfLife\obj\Debug\netcoreapp3.1\GameOfLife.AssemblyInfoInputs.cache
+C:\src\GameOfLife\obj\Debug\netcoreapp3.1\GameOfLife.AssemblyInfo.cs
+C:\src\GameOfLife\obj\Debug\netcoreapp3.1\GameOfLife.csproj.CoreCompileInputs.cache
+C:\src\GameOfLife\obj\Debug\netcoreapp3.1\GameOfLife.dll
+C:\src\GameOfLife\obj\Debug\netcoreapp3.1\GameOfLife.pdb
+C:\src\GameOfLife\obj\Debug\netcoreapp3.1\GameOfLife.genruntimeconfig.cache
